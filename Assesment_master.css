@@ -1,0 +1,25 @@
+body{
+  background-color:#7ad0dd
+}
+h1{
+  border: 1px solid black;
+}
+h2{
+  color: purple;
+}
+input{
+  border: 2px solid rgb(237, 4, 12);
+}
+#f1{
+  background-color: #efeb7c;
+}
+.f2{
+  border: 4px dashed yellow;
+  background-color:blue;
+}
+span{
+  background-color: yellow;
+}
+.f3{
+  border-color: 5px solid grey;
+}
